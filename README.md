@@ -4,10 +4,10 @@
 
 **Computer Engineering Student** · IFSULDEMINAS — Poços de Caldas, MG, Brazil · 8th Period
 
-🔬 ML/Security Researcher (CNPq/PIBIC) &nbsp;|&nbsp; 💻 Freelance Web Developer &nbsp;|&nbsp; 🐧 WSL2 / Linux
+🔬 ML/Security Researcher &nbsp;|&nbsp; 💻 Freelance Web Developer &nbsp;|&nbsp; 🐧 WSL2 / Linux
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nattan-montel-7139373b8/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nattan.m167@gmail.com)
 
 </div>
 
@@ -16,8 +16,8 @@ I build machine-learning security research and small, practical web products —
 ## 🔭 Currently
 
 - Rebuilding **AEGIS**, a DoS/DDoS detection system, after auditing a prior submission and finding data leakage and temporal-correlation flaws in the evaluation protocol — now on Improved CIC-IDS-2017/2018 with a locked-down, checksum-verified pipeline
-- Holding a **CNPq/PIBIC** undergraduate research fellowship in applied ML for network security
 - Taking on freelance web projects (institutional sites, internal tools) alongside coursework
+- 🎓 Former **CNPq/PIBIC** undergraduate research fellow in applied ML for network security
 
 ## 🚀 Featured Projects
 
@@ -33,11 +33,7 @@ I build machine-learning security research and small, practical web products —
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML5, CSS3" />
 
 **ML / Data**
 
@@ -70,6 +66,6 @@ I build machine-learning security research and small, practical web products —
 
 ## 📫 Connect
 
-- 💼 LinkedIn: `add your link`
-- ✉️ Email: `add your email`
+- 💼 LinkedIn: [nattan-montel](https://www.linkedin.com/in/nattan-montel-7139373b8/)
+- ✉️ Email: [nattan.m167@gmail.com](mailto:nattan.m167@gmail.com)
 - 📍 Poços de Caldas, MG, Brazil
