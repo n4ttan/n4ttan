@@ -57,12 +57,12 @@ I build machine-learning security research and full stack products — from back
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=n4ttan&show_icons=true&theme=default" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4ttan&layout=compact&theme=default" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=n4ttan&show_icons=true&theme=default" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=n4ttan&layout=compact&theme=default" />
 
 </div>
 
-> If the cards above show a broken image, it's a known rate-limit issue on the shared Vercel instance — it usually recovers on its own after a reload. If it keeps happening, you can [self-host your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
+> Using [github-stats-extended](https://github.com/stats-organization/github-stats-extended) here instead of the original `github-readme-stats.vercel.app` — the official public instance has had its deployment paused since Jan 2026 and development moved to this actively maintained fork. If a card ever looks broken, that's the signal to check the fork's status page or self-host your own instance.
 
 ## 🐍 Contribution Snake
 
@@ -72,7 +72,7 @@ I build machine-learning security research and full stack products — from back
 
 </div>
 
-*(a snake that "eats" your contribution graph — auto-updates daily)*
+*(a snake that "eats" your contribution graph — auto-updates daily. This image will look broken until you complete the setup below and the Action runs once — that's expected, not a bug.)*
 
 <details>
 <summary>⚙️ Setup (one-time, ~2 min)</summary>
