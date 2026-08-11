@@ -62,8 +62,6 @@ I build machine-learning security research and full stack products — from back
 
 </div>
 
-> Using [github-stats-extended](https://github.com/stats-organization/github-stats-extended) here instead of the original `github-readme-stats.vercel.app` — the official public instance has had its deployment paused since Jan 2026 and development moved to this actively maintained fork. If a card ever looks broken, that's the signal to check the fork's status page or self-host your own instance.
-
 ## 🐍 Contribution Snake
 
 <div align="center">
