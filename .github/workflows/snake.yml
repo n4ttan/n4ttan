@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: n4ttan
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
