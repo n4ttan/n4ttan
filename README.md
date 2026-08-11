@@ -74,44 +74,6 @@ I build machine-learning security research and full stack products — from back
 
 *(a snake that "eats" your contribution graph — auto-updates daily. This image will look broken until you complete the setup below and the Action runs once — that's expected, not a bug.)*
 
-<details>
-<summary>⚙️ Setup (one-time, ~2 min)</summary>
-
-1. Create a repo named exactly `n4ttan` (a "profile repo" if you don't have one yet).
-2. Inside it, add `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # runs once a day
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: n4ttan
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Push it, let the Action run once, then the image above will render automatically.
-</details>
-
 ## 📫 Connect
 
 - 💼 LinkedIn: [nattan-montel](https://www.linkedin.com/in/nattan-montel-7139373b8/)
