@@ -1,41 +1,39 @@
 <div align="center">
 
-# Olá, eu sou o Nattan 👋
+# Hi, I'm Nattan 👋
 
-**Estudante de Engenharia da Computação** · IFSULDEMINAS — Poços de Caldas, MG, Brasil · 8º Período
+**Computer Engineering Student** · IFSULDEMINAS — Poços de Caldas, MG, Brazil · 8th Period
 
-🔬 Pesquisador em ML/Segurança &nbsp;|&nbsp; 💻 Desenvolvedor Full Stack Freelancer &nbsp;|&nbsp; 🐧 WSL2 / Linux
+🔬 ML/Security Researcher &nbsp;|&nbsp; 💻 Full Stack Freelance Developer &nbsp;|&nbsp; 🐧 WSL2 / Linux
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nattan-montel-7139373b8/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nattan.m167@gmail.com)
 
 </div>
 
-Construo pesquisa em Machine Learning aplicada à segurança e produtos full stack — do backend ao deploy, sempre com foco em arquitetura sólida e boas práticas de segurança.
+I build machine-learning security research and full stack products — from backend to deploy, always with a focus on solid architecture and security best practices.
 
-## 🔭 Atualmente
+## 🔭 Currently
 
-- Reconstruindo o **AEGIS**, um sistema de detecção de ataques DoS/DDoS, após auditar uma submissão anterior e identificar falhas de vazamento de dados e correlação temporal no protocolo de avaliação — agora sobre os datasets Improved CIC-IDS-2017/2018, com pipeline travado e verificado por checksum
-- Atuando como freelancer full stack, aplicando boas práticas de arquitetura e segurança em cada projeto
-- 🎓 Ex-bolsista de iniciação científica **CNPq/PIBIC** em ML aplicado à segurança de redes
+- Rebuilding **AEGIS**, a DoS/DDoS detection system, after auditing a prior submission and finding data leakage and temporal-correlation flaws in the evaluation protocol — now on Improved CIC-IDS-2017/2018 with a locked-down, checksum-verified pipeline
+- Working as a full stack freelancer, applying solid architecture and security practices to every project
+- 🎓 Former **CNPq/PIBIC** undergraduate research fellow in applied ML for network security
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-| 🛡️ AEGIS — Detecção de DoS/DDoS | 🗂️ Gerenciador de Casos (projeto pessoal) |
+| 🛡️ AEGIS — DoS/DDoS Detection *(private repo)* | 📋 [Chamados — Mobile Ticketing App](https://github.com/n4ttan/trabalho-pdm) |
 |---|---|
-| **Tech:** Python · scikit-learn · XGBoost · Isolation Forest <br> Ensemble de ML para detecção de ataques DDoS/L7, reconstruído em torno de um protocolo de avaliação rigoroso (split temporal, controle de vazamento, log de decisões documentado) | **Tech:** HTML/CSS/JS · Supabase · AES-GCM no cliente <br> App web para gestão de processos em nome de terceiros, com criptografia no lado do cliente e controle de acesso por linha |
-| **📚 BiblioSys — Gestão de Biblioteca** | **🖥️ SIMPLES.IDE — IDE Web para Compiladores** |
-| **Tech:** Django · Python · SQLite <br> MVP de gestão de biblioteca construído em equipe: recuperação de senha, relatórios administrativos, filtros de histórico, cobertura de testes completa | **Tech:** React · Flask · xterm.js <br> IDE web para uma linguagem didática própria, com pipeline de execução funcional, terminal interativo e tratamento de stdin em tempo real |
+| **Tech:** Python · scikit-learn · XGBoost · Isolation Forest <br> ML ensemble for DDoS/L7 attack detection, rebuilt around a strict evaluation protocol (temporal splitting, leakage controls, documented decision log) | **Tech:** Java · Android Studio · SQLite <br> Support ticket app migrated from SharedPreferences to SQLite, with RecyclerView lists, drawer navigation, and camera capture |
+| **📚 [BiblioSys — Library Management](https://github.com/AmandoLuizDaCruz/bibliosys)** | **🖥️ [SIMPLES.IDE — Web Compiler IDE](https://github.com/monteirxfael/compiladoress)** |
+| **Tech:** Django · Python · SQLite <br> Library management MVP built with a team: password recovery, staff reports, history filters, full test coverage | **Tech:** React · Flask · xterm.js <br> Web IDE for a custom teaching language, with a working execution pipeline, live terminal I/O, and interactive stdin handling |
 
-*(troque pelos links reais dos seus repositórios)*
+## 🛠️ Tech Stack
 
-## 🛠️ Stack Técnica
-
-**Linguagens**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML5, CSS3" />
 
-**ML / Dados**
+**ML / Data**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -48,24 +46,74 @@ Construo pesquisa em Machine Learning aplicada à segurança e produtos full sta
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Ferramentas**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux%20(WSL2)-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=n4ttan&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4ttan&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=n4ttan&show_icons=true&theme=default" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4ttan&layout=compact&theme=default" />
 
 </div>
 
-## 📫 Contato
+> If the cards above show a broken image, it's a known rate-limit issue on the shared Vercel instance — it usually recovers on its own after a reload. If it keeps happening, you can [self-host your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/n4ttan/n4ttan/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+
+</div>
+
+*(a snake that "eats" your contribution graph — auto-updates daily)*
+
+<details>
+<summary>⚙️ Setup (one-time, ~2 min)</summary>
+
+1. Create a repo named exactly `n4ttan` (a "profile repo" if you don't have one yet).
+2. Inside it, add `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once a day
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: n4ttan
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Push it, let the Action run once, then the image above will render automatically.
+</details>
+
+## 📫 Connect
 
 - 💼 LinkedIn: [nattan-montel](https://www.linkedin.com/in/nattan-montel-7139373b8/)
 - ✉️ Email: [nattan.m167@gmail.com](mailto:nattan.m167@gmail.com)
-- 📍 Poços de Caldas, MG, Brasil
+- 📍 Poços de Caldas, MG, Brazil
